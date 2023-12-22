@@ -1,2 +1,9 @@
 # Programming-1
-Final assignment (Jan/Feb 2022) in the course "Programming 1" which was a course needed in order to apply for a 2 year study program to become a system developer. Comments and content are written in Swedish.
+A simple blog; a console application made with Visual Studio and C#.
+
+## Assignment
+Final assignment in the course _Programming 1_ (Jan/Feb 2022).
+The assignment was to create a simple blog as a console application using C#.
+
+### Details
+The comments and content are written in Swedish.
